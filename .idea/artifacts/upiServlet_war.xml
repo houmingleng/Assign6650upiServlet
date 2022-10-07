@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="upiServlet:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/upiServlet_war</output-path>
+    <root id="archive" name="upiServlet_war.war">
+      <element id="artifact" artifact-name="upiServlet:war exploded" />
+    </root>
+  </artifact>
+</component>
